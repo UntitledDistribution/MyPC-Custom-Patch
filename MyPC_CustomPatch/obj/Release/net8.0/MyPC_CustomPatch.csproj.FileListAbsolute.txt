@@ -1,0 +1,14 @@
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\bin\Release\net8.0\MyPC_CustomPatch.exe
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\bin\Release\net8.0\MyPC_CustomPatch.deps.json
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\bin\Release\net8.0\MyPC_CustomPatch.runtimeconfig.json
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\bin\Release\net8.0\MyPC_CustomPatch.dll
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\bin\Release\net8.0\MyPC_CustomPatch.pdb
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\obj\Release\net8.0\MyPC_CustomPatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\obj\Release\net8.0\MyPC_CustomPatch.AssemblyInfoInputs.cache
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\obj\Release\net8.0\MyPC_CustomPatch.AssemblyInfo.cs
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\obj\Release\net8.0\MyPC_CustomPatch.csproj.CoreCompileInputs.cache
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\obj\Release\net8.0\MyPC_CustomPatch.dll
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\obj\Release\net8.0\refint\MyPC_CustomPatch.dll
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\obj\Release\net8.0\MyPC_CustomPatch.pdb
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\obj\Release\net8.0\MyPC_CustomPatch.genruntimeconfig.cache
+C:\Users\S1118087\OneDrive - Heart of Worcestershire College\4. ------------------------------------------\MyPCOverride\MyPC_CustomPatch\MyPC_CustomPatch\obj\Release\net8.0\ref\MyPC_CustomPatch.dll
