@@ -15,11 +15,14 @@ This could have simply been replicated by performing quickly in task manager or 
 
 ```shell
 @echo off
-:a #start of a loop
+:: Declare the start of a loop
+:a
 timeout 0
-taskkill /IM nwlg.exe /f #ending a process
+:: Ending the two processes
+taskkill /IM nwlg.exe /f
 taskkill /IM lgmpc.exe /f
-goto a #go back to the loop
+:: Go back to the start of the loop.
+goto a
 ```
 
 And so I've solved this by making my own C# background application (which was AI assisted via Proton Lumo in early 2026)
