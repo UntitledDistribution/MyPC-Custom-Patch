@@ -39,6 +39,8 @@ Good question, you can deploy it yourself by putting the application in the 'Sta
 
 ![ExplorerPreview](https://github.com/user-attachments/assets/ca92e53f-6fb7-4de6-8057-d001ef589ff2)
 
-It is recommended however that the program is set as Startup but as an administrator too so it cannot be quit by a standard user. The program can be ran as either and doesn't matter but preferably administrator is recommended.
+It is recommended however that the program is set as Startup but as an administrator too so it cannot be quit by a standard user. To execute as an Administrator you will need to use Task Scheduler (taskschd.msc) or alternative startup solution. The program can be ran as either and doesn't matter but preferably administrator is recommended otherwise all the standard user will have to do is look for an additional process and terminate it.
+
 ![AccessDenied](https://github.com/user-attachments/assets/cd335234-d7ae-4e8b-a8b4-3f22891a68cc)
 
+I have created this solution as an alternative way to patch the bug used to circumvent the reservation system and to keep task manager allowed so we can still see what processes are running on the computer and wouldn't cause disruption for any IT courses that require the use of Task manager. Using this method will keep the transparency between the user and the tools running in the background.
