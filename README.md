@@ -1,4 +1,5 @@
 # MyPC Custom Patch
+Breaking the Reservation system. When the computers are in the 'Reserved' state to unauthorized users.
 
 ## What was the vulnerability?
 The vulnerability was to do with people ending two processes in a specific order:
